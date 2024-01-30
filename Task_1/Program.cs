@@ -16,7 +16,7 @@ namespace Lab2
             #endregion
 
             int sum = firstNumber + secondNumber;
-            Console.WriteLine("{1} + {2} = {0}", sum, firstNumber, secondNumber);
+            Console.WriteLine("{2} + {1} = {0}", sum, firstNumber, secondNumber);
             Console.WriteLine("Для завершения нажмите любую клавишу на клавиатуре");
             Console.ReadKey();
         }

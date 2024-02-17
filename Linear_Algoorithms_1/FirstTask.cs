@@ -1,6 +1,6 @@
-﻿namespace Task_1
+﻿namespace Linear_Algorithms_1
 {
-    class FirstTask
+    class Linear_Algorithms_1
     {
         static void Main(string[] args)
         {

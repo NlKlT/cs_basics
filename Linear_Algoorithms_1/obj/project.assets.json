@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms/Linear_Algoorithms.csproj",
-      "projectName": "Linear_Algoorithms",
-      "projectPath": "/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms/Linear_Algoorithms.csproj",
+      "projectUniqueName": "/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/Linear_Algoorithms_1.csproj",
+      "projectName": "Linear_Algoorithms_1",
+      "projectPath": "/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/Linear_Algoorithms_1.csproj",
       "packagesPath": "/Users/zorge/.nuget/packages/",
-      "outputPath": "/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms/obj/",
+      "outputPath": "/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zorge/.nuget/NuGet/NuGet.Config"

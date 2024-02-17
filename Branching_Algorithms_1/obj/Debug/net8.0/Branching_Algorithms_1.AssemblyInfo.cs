@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Branching_Algorithms_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4467c77362e0e8e42fa40ca60aebb90180623c6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6183d84c97aba0a6f4d8d49066ffa55713e0f717")]
 [assembly: System.Reflection.AssemblyProductAttribute("Branching_Algorithms_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Branching_Algorithms_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

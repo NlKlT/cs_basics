@@ -1,0 +1,15 @@
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/bin/Debug/net8.0/Linear_Algoorithms_1
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/bin/Debug/net8.0/Linear_Algoorithms_1.deps.json
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/bin/Debug/net8.0/Linear_Algoorithms_1.runtimeconfig.json
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/bin/Debug/net8.0/Linear_Algoorithms_1.dll
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/bin/Debug/net8.0/Linear_Algoorithms_1.pdb
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.AssemblyInfoInputs.cache
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.AssemblyInfo.cs
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.csproj.CoreCompileInputs.cache
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.sourcelink.json
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.dll
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/refint/Linear_Algoorithms_1.dll
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.pdb
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/Linear_Algoorithms_1.genruntimeconfig.cache
+/Users/zorge/Documents/Code/cs_basics/Linear_Algoorithms_1/obj/Debug/net8.0/ref/Linear_Algoorithms_1.dll

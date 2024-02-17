@@ -1,0 +1,15 @@
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/bin/Debug/net8.0/BranchingAlgorithms3
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/bin/Debug/net8.0/BranchingAlgorithms3.deps.json
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/bin/Debug/net8.0/BranchingAlgorithms3.runtimeconfig.json
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/bin/Debug/net8.0/BranchingAlgorithms3.dll
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/bin/Debug/net8.0/BranchingAlgorithms3.pdb
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.AssemblyInfoInputs.cache
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.AssemblyInfo.cs
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.csproj.CoreCompileInputs.cache
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.sourcelink.json
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.dll
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/refint/BranchingAlgorithms3.dll
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.pdb
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/BranchingAlgorithms3.genruntimeconfig.cache
+/Users/zorge/Documents/Code/cs_basics/BranchingAlgorithms3/obj/Debug/net8.0/ref/BranchingAlgorithms3.dll

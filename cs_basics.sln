@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linear_Algoorithms_1", "Lin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branching_Algorithms_1", "Branching_Algorithms_1\Branching_Algorithms_1.csproj", "{0F261934-4AE8-4433-90B3-1678AB06CC6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAlgorithms3", "BranchingAlgorithms3\BranchingAlgorithms3.csproj", "{3BA33D76-3072-4AD4-8A89-42B12F264C44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0F261934-4AE8-4433-90B3-1678AB06CC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F261934-4AE8-4433-90B3-1678AB06CC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F261934-4AE8-4433-90B3-1678AB06CC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA33D76-3072-4AD4-8A89-42B12F264C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA33D76-3072-4AD4-8A89-42B12F264C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA33D76-3072-4AD4-8A89-42B12F264C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA33D76-3072-4AD4-8A89-42B12F264C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zorge/Documents/Code/cs_basics/Task_2/Task_2.csproj",
-      "projectName": "Task_2",
-      "projectPath": "/Users/zorge/Documents/Code/cs_basics/Task_2/Task_2.csproj",
+      "projectUniqueName": "/Users/zorge/Documents/Code/cs_basics/Branching_Algorithms_1/Branching_Algorithms_1.csproj",
+      "projectName": "Branching_Algorithms_1",
+      "projectPath": "/Users/zorge/Documents/Code/cs_basics/Branching_Algorithms_1/Branching_Algorithms_1.csproj",
       "packagesPath": "/Users/zorge/.nuget/packages/",
-      "outputPath": "/Users/zorge/Documents/Code/cs_basics/Task_2/obj/",
+      "outputPath": "/Users/zorge/Documents/Code/cs_basics/Branching_Algorithms_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zorge/.nuget/NuGet/NuGet.Config"

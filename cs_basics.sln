@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linear_Algoorithms_1", "Linear_Algoorithms_1\Linear_Algoorithms_1.csproj", "{55900289-9820-4345-933C-503C0EC7B2D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{0F261934-4AE8-4433-90B3-1678AB06CC6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branching_Algorithms_1", "Branching_Algorithms_1\Branching_Algorithms_1.csproj", "{0F261934-4AE8-4433-90B3-1678AB06CC6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

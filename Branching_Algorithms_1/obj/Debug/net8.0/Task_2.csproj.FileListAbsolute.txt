@@ -1,0 +1,15 @@
+/Users/zorge/Documents/Code/cs_basics/Task_2/bin/Debug/net8.0/Task_2
+/Users/zorge/Documents/Code/cs_basics/Task_2/bin/Debug/net8.0/Task_2.deps.json
+/Users/zorge/Documents/Code/cs_basics/Task_2/bin/Debug/net8.0/Task_2.runtimeconfig.json
+/Users/zorge/Documents/Code/cs_basics/Task_2/bin/Debug/net8.0/Task_2.dll
+/Users/zorge/Documents/Code/cs_basics/Task_2/bin/Debug/net8.0/Task_2.pdb
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.AssemblyInfoInputs.cache
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.AssemblyInfo.cs
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.csproj.CoreCompileInputs.cache
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.sourcelink.json
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.dll
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/refint/Task_2.dll
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.pdb
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/Task_2.genruntimeconfig.cache
+/Users/zorge/Documents/Code/cs_basics/Task_2/obj/Debug/net8.0/ref/Task_2.dll
